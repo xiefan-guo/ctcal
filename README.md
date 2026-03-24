@@ -1,1 +1,1 @@
-## Rethinking Text-to-Image Diffusion Models via Cross-Timestep Self-Calibration<br><sub>Official PyTorch code release for the CVPR 2026 paper: [arxiv.org/abs/2603.20741](https://arxiv.org/abs/2603.20741)</sub>
+## Rethinking T2I Diffusion Models via Cross-Timestep Self-Calibration<br><sub>Official PyTorch code release for the CVPR 2026 paper: [https://arxiv.org/abs/2603.20741](https://arxiv.org/abs/2603.20741)</sub>
