@@ -1,2 +1,27 @@
-*.DS_Store
-*/*.DS_Store
+# Data and model artefacts (never commit these)
+data/train/
+data/train_v2/
+data/train_v3/
+runs/
+results/
+logs/
+
+# Checkpoints and weights
+*.safetensors
+*.ckpt
+*.pt
+*.bin
+*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store

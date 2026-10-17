@@ -1,0 +1,19 @@
+# Core
+torch>=2.4
+numpy>=1.24
+scipy>=1.11
+Pillow>=10.0
+
+# Diffusion backbone
+diffusers>=0.31
+transformers>=4.44
+peft>=0.12
+safetensors>=0.4
+accelerate>=0.33
+
+# NLP: noun selection and word -> token alignment
+stanza>=1.8
+
+# Evaluation / figures
+matplotlib>=3.8
+huggingface_hub>=0.24
