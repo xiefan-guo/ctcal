@@ -99,8 +99,8 @@ python tests/test_train_step.py     # GPU: one end-to-end step, gradients flow
 @inproceedings{ctcal2026,
   title     = {CTCal: Rethinking Text-to-Image Diffusion Models via
                Cross-Timestep Self-Calibration},
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision
-               and Pattern Recognition (CVPR)},
+  author    = {Guo, Xiefan and Ma, Xinzhu and Zhang, Haiyu and Huang, Di},
+  booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
   year      = {2026}
 }
 ```
